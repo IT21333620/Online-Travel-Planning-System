@@ -1,0 +1,59 @@
+.divimgroom{
+    height: 350px;
+    margin-left: 18%;
+}
+.imguproom{
+    height: 350px;
+    margin-top: 2%;
+    width: 95%;
+    height: 350px;
+    margin-left: 4%;
+    float: left;
+    border-radius: 10px;
+    object-fit: cover;
+    display: block;
+}
+.uproom-cont1-edit{
+    position: relative;
+  top: -20%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 1;  
+}
+.uproom-cont2-edit {
+  position: relative;
+  top: -50%;
+  left: 26%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 1;
+}
+.uproom-cont1-edit p{
+    font-size: 45px;
+    color: #191970;
+    margin: 0;
+}
+.uproom-cont2-edit p {
+  margin: 0;
+  font-size: 22px;
+  color:#191970;
+}
+.uproom-form{
+    margin-top: 5%;
+    margin-left: 21.5%;
+    margin-right:1%;
+    background-color: white;
+    border-radius: 10px;
+}
+.btnupdate-hotel{
+    background: linear-gradient(90.72deg, #19701c, rgba(25, 112, 28, 0.65));
+    width: 170px;
+    height: 50px;
+    float: right;
+    margin-right: 8%;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}

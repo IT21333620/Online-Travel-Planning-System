@@ -1,0 +1,77 @@
+.titleStyle {
+    color: #191970;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.AdimageStyle {
+    width: 1132px;
+    height: 331px;
+}
+
+.slideshow {
+    position: relative;
+}
+  
+.previous {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    background-color: transparent;
+    border: none;
+    font-size: 32px;
+    border-radius: 50%; 
+}
+
+.previous:hover {
+    opacity: 0.5;
+    background-color: #191970;
+    transform: translateY(-8px);
+}
+
+.Adnext {
+    position: inherit;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    background-color: transparent;
+    border: none;
+    font-size: 32px;
+    border-radius: 50%; 
+}
+
+.Adnext:hover {
+    opacity: 0.5;
+    background-color: #191970;
+    transform: translateY(-8px);
+}
+
+.register {
+    background: linear-gradient(90.72deg, #191970, rgba(25, 25, 112, 0.77));
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    
+}
+
+.signin{
+    background-color: transparent;
+    border: none;
+    text-decoration: underline;
+    cursor: pointer;
+    color:#191970;
+}
+
+.btns{
+    text-align: center;
+}
+

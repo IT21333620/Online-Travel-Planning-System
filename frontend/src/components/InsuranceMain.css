@@ -1,0 +1,481 @@
+.img1234{
+  margin-left: 100px;
+  background:url("../img/InsuranceLogo.png");
+
+}
+.IOwneress-img{
+  height: 180px;
+  width: 180px;
+  margin-left: 690px;
+}
+
+
+
+
+.home120{
+   background-image: linear-gradient(rgba(9,5,54,0.3),rgba(5,4,46,0.7)),url("../img/InsuranceBanner.jpg"); 
+  width:100% ;
+  height:90vh ;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.head4321{
+  color: aliceblue;
+  font-size: 100px;
+  letter-spacing: 1px;
+  margin-top: -10px;
+}
+
+.home120 p{
+  color: aliceblue;
+  font-size: 40px;
+  letter-spacing: 1px;
+}
+
+.blue123{
+  text-decoration: none;
+  font-size: 20px;
+  padding:13px 35px ;
+  background-color: aliceblue;
+  border-radius:5px ;
+  width: 150px;
+  margin-top: 60px;
+  margin-left: 700px;
+}
+
+ .blue123{
+color: aliceblue;
+background: #191970;  
+transition: 0.3s ease
+}
+.blue123:hover{
+  background:rgb(20, 185, 185);
+}
+
+
+.abouth{
+color: #191970;
+position: absolute;
+height: 3px;
+left: 980px;
+top: 900px;
+margin-right: 10px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+color: #191970;
+font-size: 50px;
+text-transform: uppercase;
+font-weight: bold;
+
+
+}
+.aboutp{
+position: absolute;
+width: 526px;
+height: 459px;
+left: 893px;
+top: 1000px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color: #191970;
+}
+
+.img100{
+position: absolute;
+width: 615px;
+height: 700px;
+left: 201px;
+top: 900px;
+background:url("../img/abouts.jpg");
+border-radius: 100px;
+
+}
+.button100{
+
+position: absolute;
+width: 200px;
+height: 68px;
+left: 1040px;
+top: 1520px;
+background: #191970;
+border-radius: 8px;
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 22px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.button100:hover{
+  background:rgb(20, 185, 185);
+}
+
+
+.claimh{
+position: absolute;
+width: 320px;
+height: 93px;
+left: 337px;
+top: 1856px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight:bold;
+font-size: 45px;
+line-height: 33px;
+text-align: center;
+color: #191970;
+text-transform: uppercase;
+}
+
+
+.claimp{
+position: absolute;
+width: 526px;
+height: 459px;
+left: 223px;
+top: 1965px;
+font-family: 'Open Sans';
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+color: #191970;
+}
+
+.img200{
+position: absolute;
+width: 584px;
+height: 750px;
+left: 880px;
+top: 1856px;
+background: url("../img/claim.jpg");
+border-radius: 100px;
+
+}
+.button200{
+position: absolute;
+width: 200px;
+height: 68px;
+left: 360px;
+top: 2521px;
+background: #191970;
+border-radius: 8px;
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 22px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.button200:hover{
+  background:rgb(20, 185, 185);
+}
+
+
+
+
+
+.container100{
+box-sizing: border-box;
+position: absolute;
+width: 1222px;
+height: 640px;
+left: 220px;
+top: 2750px;
+background: rgba(238, 231, 231, 0.4);
+border: 2px solid #000000;
+border-radius: 40px;
+}
+
+.container100 h3{
+margin-top: 50px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 68px;
+text-align: center;
+color: #191970;
+font-weight:bold;
+}
+
+
+.container100 .health{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 44px;
+float: right;
+color: #191970;
+margin-top :100px; 
+margin-right: 230px;
+
+}
+
+
+.container100 .life{
+  margin-top: 100px;
+  float: left;
+  margin-right: -230px;
+  margin-left: 190px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 44px;
+  color: #191970;
+  }
+
+ .img300{
+  margin-top: 170px;
+width: 280px;
+height: 187px;
+float: left;
+background: url("../img/lifeInsurance.jpeg");
+border-radius: 30px;
+
+  }
+  .img400{
+    margin-right: -250px;
+   margin-top: 170px;
+    width: 280px;
+    height: 180px;
+    float: right;
+    background: url("../img/healthInsurance.jpeg");
+    border-radius: 30px;
+    
+      }
+
+.button300{
+  margin-top: 400px;
+  margin-left: -200px;
+  background: #191970;
+  border-radius: 8px;
+  position: absolute;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 22px;
+  text-align: center;
+  color: #FFFFFF;
+  height: 40px;
+  width: 100px;
+
+        }
+        
+
+    .button300:hover{
+          background:rgb(20, 185, 185);
+   }
+
+        
+    .button400{
+      margin-left: 360px;
+    margin-top: 400px;
+      background: #191970;
+      border-radius: 8px;
+      position: absolute;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 25px;
+      line-height: 22px;
+      text-align: center;
+      color: #FFFFFF;
+      height: 40px;
+      width: 100px;
+        }
+        
+        .button400:hover{
+          background:rgb(20, 185, 185);
+        }
+        
+        
+
+
+
+.container200{
+position: absolute;
+width: 888px;
+height: 600px;
+left: 385px;
+top: 3500px;
+background:#D9D9D9;
+border-radius: 40px;
+}
+
+
+.container200 h3{
+  margin-top:50px;
+font-family: 'San serif';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 39px;
+text-align: center;
+color: #191970;
+margin-bottom: 40px;
+
+}
+.container200 label{
+ 
+   font-size: 20px;
+    font-weight: bold;
+    color: #191970;
+    margin-top: 20px;
+    margin-left: 40px;
+   
+  }
+  .container200 input{
+    width: 800px;
+    height: 40px;
+    margin-left: 40px;
+    
+}
+
+.button500{
+  background: #191970;
+  border-radius: 8px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 22px;
+  text-align: center;
+  color: #FFFFFF;
+  height: 50px;
+  width: 140px;
+  margin-left: 650px;
+  margin-top: 40px;
+    }
+    
+    .button500:hover{
+      background:rgb(20, 185, 185);
+    }
+    
+
+
+
+
+.container300{
+position: absolute;
+width: 517px;
+height: 241px;
+left: 247px;
+top: 4300px;
+background: rgba(0, 0, 0, 0.2);
+border-radius: 30px;
+}
+.container300 h3{
+
+ margin-top:10px;
+font-family: 'San serif';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 39px;
+text-align: center;
+color: #191970;
+margin-bottom: 40px;
+}
+.container300 p{
+font-family: 'Open Sans';
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+color: #191970;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+
+.container400{
+position: absolute;
+width: 517px;
+left: 247px;
+top: 4600px;
+background: rgba(0, 0, 0, 0.2);
+border-radius: 30px;
+
+}
+.container400 h3{ 
+  margin-top:10px;
+  font-family: 'San serif';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 39px;
+  text-align: center;
+  color: #191970;
+  margin-bottom: 40px;
+
+}
+
+.container400 p{
+  font-family: 'Open Sans';
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+color: #191970;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+
+
+.rewards00{
+position: absolute;
+width: 519px;
+height: 63px;
+left: 880px;
+top: 4280px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 39px;
+text-align: center;
+color:#191970;
+}
+
+.reward100{
+  background: url("../img/reward1.png");
+position: absolute;
+width: 230px;
+height: 220px;
+left: 1000px;
+top: 4380px;
+
+}
+
+
+.reward200{
+position: absolute;
+width: 330px;
+height: 140px;
+left: 950px;
+top: 4650px;
+background: url("../img/rewards2.jpeg");
+}

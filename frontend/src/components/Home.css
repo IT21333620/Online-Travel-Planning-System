@@ -1,0 +1,97 @@
+.home1{
+    margin-top: 10px;
+    width:1368px;
+    max-height: 588px;
+    object-fit: cover;
+    margin-left: -30px;
+}
+
+.adHome{
+    position: relative; left:20px;  top: 10px;
+}
+
+.home2{
+    margin-top: 20px;
+    width:1368px;
+    max-height: 454px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-left: -30px;
+}
+
+.fpara {
+    position: absolute;
+    top: 850px;
+    left: 20%;
+    font-size: 64px;
+    color: #191970;
+  }
+
+  .sndpara {
+    position: absolute;
+    top: 980px;
+    left: 29%;
+    font-size: 32px;
+    color: #191970;
+  }
+
+  .tpara {
+    position: absolute;
+    top: 1100px;
+    left: 34%;
+    font-size: 32px;
+    color: #191970;
+  }
+
+  .bttnHome{
+    background: linear-gradient(90.72deg, #191970, rgba(25, 25, 112, 0.77));
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 30px;
+    cursor: pointer;
+    border-radius: 4px;
+    position: relative; left:4px;  top: -100px;
+  }
+  
+  hr{
+    margin-top: -80px;
+    border-color: #191970 ;
+  }
+
+  .blk1{
+    border: 1px solid #191970;
+    margin-top: 20px;
+    max-height: 1560px;
+    border-radius: 10px;
+  }
+
+  .picH{
+    position: relative; left:10px;  top: 2px;
+    width:340px;
+    height:280px;
+    border-radius: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .btnH{
+    background: linear-gradient(90.72deg, #191970, rgba(25, 25, 112, 0.77));
+    border: none;
+    color: white;
+    padding: 12px 45px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 30px;
+    cursor: pointer;
+    border-radius: 10px;
+    position: relative; left:4px;  top: -100px;
+    width:170px;
+    margin-left:500px;
+    margin-top:60px;
+  }
+  

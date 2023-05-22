@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inria+Sans:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+  
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-open-sans: "Open Sans";
+  --font-inria-sans: "Inria Sans";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-3xl: 22px;
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+  
+
+  /* Colors */
+  --color-white: #fff;
+  --color-goldenrod: #e49b0f;
+  --color-midnightblue-100: #191970;
+  --color-midnightblue-200: rgba(25, 25, 112, 0.25);
+  --color-black: #000;
+  --color-gray: #8d918d;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+}

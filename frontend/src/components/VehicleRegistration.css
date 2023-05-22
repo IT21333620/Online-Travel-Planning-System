@@ -1,0 +1,265 @@
+.veh-reg-whole-body{
+    background-color: #e6e6ee;
+    height: 850px;
+}
+
+.veh-reg-heading{
+    color: #191970;
+    position: relative; top: 25px; left: 35%;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.veh-reg-body-container{
+    background-color: white;
+    position: relative; top: 100px; left: 160px;
+    width: 1200px;
+    height: 1000px;
+    border-radius: 8px;
+}
+
+.veh-reg-owner-name{
+    border-radius: 6px;
+    width: 350px;
+    height: 50px;
+    position: relative;  
+    border-color: black;
+}
+
+.veh-res-date-address{
+    border-radius: 6px;
+    width: 350px;
+    height: 50px;
+    position: relative;  
+    border-color: black;
+}
+
+.veh-res-date-email-address{
+    border-radius: 6px;
+    width: 350px;
+    height: 50px;
+    position: relative;  
+    border-color: black;
+}
+
+.veh-res-date-phone{
+    border-radius: 6px;
+    width: 350px;
+    height: 50px;
+    position: relative;  
+    border-color: black;
+}
+
+.veh-res-date-veh-model{
+    border-radius: 6px;
+    width: 350px;
+    height: 50px;
+    position: relative;  
+    border-color: black;
+}
+
+.veh-res-date-yom{
+    border-radius: 6px;
+    width: 350px;
+    height: 50px;
+    position: relative;  
+    border-color: black;
+}
+
+.veh-res-date-lnum{
+    border-radius: 6px;
+    width: 350px;
+    height: 50px;
+    position: relative;  
+    border-color: black;
+}
+
+.veh-res-date-color{
+    border-radius: 6px;
+    width: 350px;
+    height: 50px;
+    position: relative;  
+    border-color: black;
+}
+
+.veh-res-date-veh-con{
+    border-radius: 6px;
+    width: 350px;
+    height: 50px;
+    position: relative;  
+    border-color: black;
+}
+
+.veh-res-date-veh-cmil{
+    border-radius: 6px;
+    width: 350px;
+    height: 50px;
+    position: relative;  
+    border-color: black;
+}
+
+.veh-res-date-special-box{
+    border-radius: 6px;
+    width: 350px;
+    height: 50px;
+    position: relative;  
+    border-color: black;
+}
+
+.veh-res-date-price-box{
+    border-radius: 6px;
+    width: 350px;
+    height: 50px;
+    position: relative;  
+    border-color: black;
+}
+
+.veh-reg-p1{
+    position: relative; left: 70px; top: 50px;
+    line-height: 80px;
+}
+
+.veh-reg-p2{
+    position: relative; left:650px; top: -525px;
+    line-height: 80px;
+
+}
+
+.veh-reg-owner-name{
+    position: relative; left: 20px;
+}
+
+.veh-res-date-address{
+    position: relative; left: 120px;
+}
+
+.veh-res-date-email-address{
+    position: relative; left: 78px;
+}
+
+.veh-res-date-phone{
+    position: relative; left: 70px;
+}
+
+.veh-res-date-veh-model{
+    position: relative; left: 78px;
+}
+
+.veh-res-date-yom{
+    position: relative; left: 87px;
+}
+
+.veh-res-date-lnum{
+    position: relative; left: 20px;
+}
+
+.veh-res-date-color{
+    position: relative; left: 95px;
+}
+
+.veh-res-date-veh-con{
+    position: relative; left: 10px;
+}
+
+.veh-res-date-notes{
+    position: relative; left: 40px;
+}
+
+
+#veh-reg-btn2{
+    position: relative; top: -480px; left: 980px;
+    flex: 1 1 auto;
+  margin: 5px;
+  padding: 10px;
+  width: 150px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 6px;
+  background-image: linear-gradient(to left, #191970 0%, #ffffff 2%, #191970 100%);
+  font-size: 20px;
+  border-style: none;
+}
+
+.drp-down-seats{
+    width: 350px;
+    height: 50px;
+    border-radius: 6px;
+    position: relative; left: 50px;
+    border-width: 2px;
+    border-color: black;
+    
+}
+
+.veh-res-date-veh-trans{
+    position: relative; top: -380px; left: 70px;
+}
+
+.veh-res-date-veh-trans-box{
+    position: relative; left: 85px;
+    width: 350px;
+    height: 50px;
+    border-radius: 6px;
+    border-width: 2px;
+    border-color: black;
+}
+
+.veh-reg-type-p{
+    position: relative; top: -210px; left: 70px;
+}
+
+.veh-reg-type-box{
+    position: relative; left: 85px;
+    width: 350px;
+    height: 50px;
+    border-radius: 6px;
+    border-width: 2px;
+    border-color: black;
+}
+
+.veh-reg-cmil-p{
+    position: relative; left: 655px; top: -635px;
+    width: 350px;
+    height: 50px;
+    border-radius: 6px;
+    border-width: 2px;
+    border-color: black;
+}
+
+.veh-res-date-veh-cmil{
+    position: relative; left: 130px; top: -35px;
+}
+
+.veh-reg-emil-p2{
+    position: relative; left: 655px; top: -615px;
+}
+
+.veh-res-date-veh-emil-box{
+    position: relative; left: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 6px;
+    border-width: 2px;
+    border-color: black;
+}
+
+.veh-reg-special-p{
+    position: relative; left: 655px; top: -578px;
+}
+
+.veh-res-date-special-box{
+    position: relative; left: 30px;
+}
+
+.veh-reg-up-img{
+    position: relative; left: 660px; top: -500px;
+}
+
+.veh-reg-price-p{
+    position: relative; left: 655px; top: -540px;
+}
+
+.veh-res-date-price-box{
+    position: relative; left: 25px;
+}

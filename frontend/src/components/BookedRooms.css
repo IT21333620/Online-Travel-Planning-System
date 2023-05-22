@@ -1,0 +1,41 @@
+.divimgresroom{
+    height: 350px;
+}
+.imgupresroom{
+    margin-top: 2%;
+    width: 95%;
+    height: 350px;
+    margin-left: 2%;
+    float: left;
+    border-radius: 10px;
+    object-fit: cover;
+    display: block;
+    margin-bottom: 2%;
+}
+.upresroom-cont1{
+  position: absolute;
+  top: 18%;
+  left: 45%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 1;  
+}
+.upresroom-cont2 {
+  position: absolute;
+  top: 30%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 1;
+}
+
+.upresroom-cont1 p{
+    font-size: 70px;
+    color: #191970;
+    margin: 0;
+}
+.upresroom-cont2 p {
+  margin: 0;
+  font-size: 70px;
+  color:#191970;
+}

@@ -1,0 +1,68 @@
+ .login-form-wrap118 h2 {
+  color: #191970;
+    margin-top: 30px;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 80px;
+
+
+  }
+
+  
+  .ahah{
+    margin-top: 20px;
+    position: absolute;
+    width: 220px;
+    height: 200px;
+    left: 690px;
+    top: 200px;
+    background:url("../img/form119.png")
+  }
+  
+  .login-form-wrap118 p {
+    position: relative;
+  }
+  
+
+  
+  .login-form-wrap118 {
+   
+    margin-top: 100px;
+    background-color: #D9D9D9;
+    width: 35%;
+    margin: 30px auto;
+    text-align: center;
+    padding: 20px 0 0 0;
+    border-radius: 4px;
+    box-shadow: 0px 30px 50px 0px rgba(0, 0, 0, 0.2);
+  }
+  
+
+  
+  .login-form-wrap118 button{
+    background: #191970;
+    border-radius: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    height: 50px;
+    width: 140px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+   margin-top: 180px;
+  }
+
+  #create-account-wrap118 {
+    background-color: #ae9fd6;
+    color: #191970;
+    font-size: 14px;
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 0 0 4px 4px;
+  }
+
+  

@@ -1,0 +1,103 @@
+ .h h1{
+position: absolute;
+width: 283px;
+height: 87px;
+left: 679px;
+top: 167px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 87px;
+text-align: center;
+color: #191970;
+
+
+}
+.h p{
+position: absolute;
+width: 1021px;
+height: 355px;
+left: 286px;
+top: 318px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+color: #191970;
+
+
+}
+.hi img{
+background-size: cover;
+position: absolute;
+width: 600px;
+height: 800px;
+left: 750px;
+top: 730px;
+background: url("../img/freedom.jpg");
+border-radius: 30px;
+}
+
+.hi h3{
+position: absolute;
+width: 443px;
+height: 474px;
+left: 360px;
+top: 750px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 33px;
+color: #191970;
+font-weight: bold;
+
+
+}
+
+.hi p{
+position: absolute;
+width: 443px;
+height: 474px;
+left: 280px;
+top: 860px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 33px;
+color: #191970;
+}
+
+.hi1 h3{
+position: absolute;
+width: 458px;
+left: 320px;
+top: 1200px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 33px;
+color: #191970;
+font-weight: bold;
+}
+
+
+
+.hi1 p{
+position: absolute;
+width: 458px;
+left: 269px;
+top: 1284px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 33px;
+color: #191970;
+height: 300px;
+}

@@ -1,0 +1,132 @@
+.veh-res-body{
+    height: auto;
+}
+#vehicle-homepage-img{
+    position: relative;
+    width: 1536px;;
+}
+
+.vehicle-homepage-heading{
+    
+    font-size: 105px;
+    font-weight: 650;
+    color: #191970;
+    position: relative; left: 750px;
+    width: 100px;;
+}
+
+#vehicle-homepage-rec{
+    position: relative; left: 750px; 
+    width: 440px;
+}
+
+#vehicle-hr-line{
+    height: 2px;
+    background: black;
+    border-radius: 8px;
+    width: 70%;
+    position: relative; top: 135px; left: 220px;
+}
+
+.vehicle-homepage-heading2{
+    position: relative; top: 175px; left: 350px;
+    color: #191970;
+}
+
+.vehicle-homepage-heading3{
+    position: relative; top: 142px; left: 850px;
+    color: #191970;
+}
+
+#vehicle-homepage-pic-collage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    position: relative; top: 250px;
+}
+
+.vehicle-homepage-heading4{
+    position: relative; top: 350px; left: 220px;
+}
+
+.vehicle-homepage-heading4:hover{
+    cursor: pointer;
+}
+
+.vehicle-homepage-heading5{
+    position: relative; top: 275px; left: 650px;
+}
+
+.vehicle-homepage-heading5:hover{
+    cursor: pointer;
+}
+
+.vehicle-homepage-heading6{
+    position: relative; top: 200px; left: 1100px;
+}
+
+.vehicle-homepage-heading6:hover{
+    cursor: pointer;
+}
+
+#vehicle-homepage-bg-pic{
+    position: relative; top: 250px; left: 180px;
+    height: 1200px;
+    width: 1160px;
+}
+
+.vehicle-homepage-heading7{
+    position: relative; top: -875px; left: 250px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#veh-first-para{
+    font-size: 20px;
+    width: 850px;
+    text-align: center;
+    position: relative; top: -840px; left: 330px;
+}
+
+.vehicle-homepage-heading8{
+    position: relative; top: -750px; left: 250px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#veh-second-para{
+    font-size: 20px;
+    width: 850px;
+    text-align: center;
+    position: relative; top: -710px; left: 330px;
+}
+
+.veh-home-btn{
+    width: 580px;
+    height: 160px;
+    border: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#veh-home-btn-1{
+    position: relative; top: -650px; left: 185px;
+    background-image: linear-gradient(to left, #ffffff 2%, #e79f1f 100%);
+}
+
+#veh-home-btn-2{
+    position: relative; top: -650px; left: 175px;
+    background-image: linear-gradient(to right, #ffffff 2%, #191970 100%);
+
+}
+
+
+.advehicle-home{
+    position: relative; left:180px;  top: -200px;
+}
+.veh-home-lastpara{
+    position: relative; left: 550px; top: -600px;
+    font-size: 25px;
+    font-weight: 600;
+}

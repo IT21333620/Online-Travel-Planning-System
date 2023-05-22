@@ -1,0 +1,75 @@
+/* Set the form's width and center it on the page */
+
+
+.login-form-wrap150 {
+   
+   background: rgb(252, 251, 251);
+    width:1000px;
+    margin-left: 300px;
+    margin-top: 80px;
+    margin-bottom:80px;
+    border-radius: 8px;
+    border-color: #161a1d;
+    box-shadow: 0px 30px 50px 0px rgba(0, 0, 0, 0.2);
+  }
+  
+  .login-form-wrap150  h1{
+    text-align: center;
+    font-size: 80px;
+  color: #191970;
+    margin-bottom: 60px;
+  }
+
+.form-group150 {
+    margin-left: 20px;
+    margin-bottom: 40px;
+    border-radius: 8px;
+    margin-right: 20px;
+    border-color: #191970;
+  }
+  
+
+  .login-form-wrap150  label {
+   color: #191970;
+    font-weight: bold;
+    margin-top:10px ;
+   
+  }
+
+
+  .btn-reset150 {
+float: left;
+margin-left: 500px;
+     font-size: 20px;
+    background-color: #191970;
+    border-color: #161a1d;
+    color: #fff;
+    padding: 10px 35px ;
+    border-radius: 4px;
+    font-weight: bold;
+   
+  }
+  .btn-submit150 {
+    
+   margin-left: 80px;
+      font-size: 20px;
+    background-color: #191970;
+    border-color: #161a1d;
+    color: #fff;
+    border-radius: 4px;
+    padding: 10px 25px ;
+    font-weight: bold;
+    margin-bottom: 50px;
+  
+  }
+ .plan1234{
+font-size: 18px;
+  margin-left: 20px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+ }
+
+ .form1234{
+
+ height: 800px;
+ }

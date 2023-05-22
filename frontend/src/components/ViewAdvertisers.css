@@ -1,0 +1,60 @@
+.fullad{
+    background-color: #E6E6EE;
+    height: 2px;
+}
+.Adsub{
+    width: 1290px;
+    height: 500px;
+    margin-top: 2%;
+    margin-left: 8%;
+    margin-right: 7%;
+    background-color: white;
+
+}
+
+.Addlt {
+    background: linear-gradient(90.72deg, #ca3838, rgba(202, 78, 78, 0.77));
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+  .bttnNext{
+    background: linear-gradient(90.72deg, #191970, rgba(25, 25, 112, 0.77));
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 50px 30px;
+    cursor: pointer;
+    border-radius: 4px;
+    float: right; 
+  }
+  
+  .ad-bg{
+    background:#E6E6EE;
+    height: fit-content;
+    min-height: 730px;
+    width: 100%;
+    position: fixed;
+    margin-top: 0%;
+}
+
+.ad-back{
+  background-color: white;
+  border-radius: 10px;
+  width: 73%;
+  margin-left: 24%;
+  margin-top: 3%;
+  padding: 2%;
+  
+}

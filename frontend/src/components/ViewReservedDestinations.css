@@ -1,0 +1,37 @@
+/* .destinationreserve-heading1{
+    font-size: 20px;
+    text-align: center;
+    color: #171299;
+    margin: 0 auto;
+} */
+/* resDesodfbtn{
+    width: 40%;
+    padding: 10px;
+    border: none;
+    background:#171299;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 5px;
+} */
+
+.reserveddestination-table{
+    margin-left: 23%;
+    border-collapse: collapse;
+    width: 15%;
+}
+
+.reserveddestination-table th,
+.reserveddestination-table td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+
+.reserveddestination-table th {
+    background-color: #a1a2a1;
+    color: white;
+  }
+  .view-Reserved-Destination-heading{
+    text-align: center;
+  }

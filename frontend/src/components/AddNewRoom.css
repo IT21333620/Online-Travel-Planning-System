@@ -1,0 +1,23 @@
+.newroom-bg{
+    background:#E6E6EE;
+    height: fit-content;
+    min-height: 1000px;
+    width: 100%;
+    position: fixed;
+    margin-top: 0%;
+}
+.hotelAppr-cont{
+    background-color: white;
+    border-radius: 10px;
+    width: 73%;
+    margin-left: 24%;
+    margin-top: 3%;
+    padding: 2%;
+    
+}
+.hotelAppr-topic{
+    font-size: 30px;
+  color:#191970;
+  text-align: center;
+
+}

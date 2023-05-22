@@ -1,0 +1,21 @@
+.nav{
+    background-color: #191970;
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-nav .nav-link:focus{
+    color: #E49B0F;
+}
+.navbar-nav .nav-link:hover{
+    color: #E49B0F;
+}
+.navphoto{
+    float: right;
+    width: 70px;
+    position: absolute;
+    right: 0px;
+
+}

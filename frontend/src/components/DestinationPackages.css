@@ -1,0 +1,100 @@
+.destination-package-container{
+    height: 3500px;
+    color: #191970;
+}
+.destination-package-heading1{
+    
+    font-size: 20px;
+    text-align:center;
+    color: #171299;
+   
+}
+
+.destination-package-heading2{
+    
+    font-size: 10px;
+    text-align:center;
+    color: #171299;
+   
+}
+.btn-desres-new{
+    width: 200px;
+    height: 50px;
+    margin-left: 40%;
+    
+    border-radius: 10px;
+    background: #191970;
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+.main-topic1{
+    font-size: 30px;
+    text-align:center;
+    color:black;
+}
+.main-description1{
+    font-size: 15px;
+    text-align: center;
+}
+.main-img{
+    
+    margin-left: 35%;
+   
+
+}
+.other-disciption1{
+    font-size:15px ;
+    text-align: center;
+}
+#des-pack-pic{
+    margin-left: 35%;
+    
+}
+.extra-description1{
+    font-size: 15px;
+    text-align: center;
+}
+.other-topic1{
+    font-size: 25px;
+    text-align: center;
+}
+#des-pack-pic1{
+    margin-left: 35%;
+    width: 420px;
+    height: 330px;
+}
+#des-pack-pic2{
+    margin-left: 35%;
+    width: 420px;
+    height: 350px;
+}
+#des-pack-pic3{
+    margin-left: 35%;
+    width: 420px;
+    height: 350px;
+}
+#des-pack-pic4{
+    margin-left: 35%;
+    width: 420px;
+    height: 330px;
+}
+#des-pack-pic5{
+    margin-left: 35%;
+    width: 420px;
+    height: 400px;
+}
+.desmap{
+    margin-left: 27%;
+    
+    
+}
+.destination-home-heading4{
+    font-size: 25px;
+    text-align: center;
+}
+.destihome-packagetype-new{
+    margin-left: 45%;
+}
+
+

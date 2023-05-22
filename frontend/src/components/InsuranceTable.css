@@ -1,0 +1,33 @@
+
+
+
+.cus1234{
+    text-align: center;
+    color: rgb(15, 7, 7);
+    font-size: 80px;
+    margin-bottom: 100px;
+  
+    margin-left: 200px;
+}
+
+.tab1234 table, th, td {
+    border: 1px solid;
+    text-align: center;
+    margin-left: 380px;
+   width: 1160px;
+   height: 50px;
+   
+  
+}
+.tab1234 th{
+    font-size: 20px;
+}
+
+.btn-edit12{
+    background:linear-gradient(90.72deg, #19701c, rgba(25, 112, 28, 0.65));
+    border-radius: 5px;
+}
+.btn-delete12{
+    background:linear-gradient(90.72deg, #DA0202 -3.71%, rgba(218, 2, 2, 0.52) 99.39%);
+    border-radius: 5px;
+}

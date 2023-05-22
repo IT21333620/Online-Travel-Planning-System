@@ -1,0 +1,43 @@
+.columnImg {
+    width: 40%;
+  }
+  
+  .columnImg img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .Addlt {
+    background: linear-gradient(90.72deg, #41b135, rgba(101, 198, 107, 0.77));
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    
+  }
+
+  .Adrej {
+    background: linear-gradient(90.72deg, #ca3838, rgba(202, 78, 78, 0.77));
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+  button:disabled {
+    background-color: gray !important;
+    color: white !important;
+  }

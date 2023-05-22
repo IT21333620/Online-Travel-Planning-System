@@ -1,0 +1,34 @@
+.destinationreserve-heading1{
+    
+    font-size: 20px;
+    text-align:center;
+    color: #171299;
+   
+}
+.destination-reserve-heading1{
+    
+    font-size: 20px;
+    text-align:center;
+    color: #171299;
+   
+}
+.res-desti-new{
+    width: 100px;
+    height: 50px;
+   
+    color: #171299; 
+    margin-left: 3%;
+    border-radius: 10px;
+    background: rgb(2, 2, 120);
+    color: rgb(244, 238, 238);
+    font-size: large;
+    text-align: center;
+
+
+}
+.res-dessssss-new{
+    position: relative; top: 100px; left: 150px;
+    background-color: #ffffff;
+    width: 800px;
+    height: 800px;
+}

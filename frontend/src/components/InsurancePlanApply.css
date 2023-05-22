@@ -1,0 +1,87 @@
+body{
+    background:#e6e6ee;
+}
+
+
+
+.container1000{
+position: absolute;
+width: 1000px;
+height: 749px;
+left: 320px;
+top: 179px;
+background: rgb(252, 251, 251);
+margin-bottom: 100px;
+border-radius: 50px;
+
+}
+
+.container1000 h1{
+   
+position: absolute;
+width: 1400px;
+height: 47px;
+left: -180px;
+top: 50px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 58px;
+text-align: center;
+color: #191970;
+
+
+}
+
+.container1000 img{
+position: absolute;
+width: 400px;
+height: 500px;
+left: 50px;
+top: 202px;
+background: url("../img/apply119\ .jpg");
+border-radius: 30px;
+}
+
+.container1000 input{
+    height: 50px;
+    width: 400px;
+    margin-bottom: 30px;
+}
+
+.form-group1190{
+    margin-top: 200px;
+    margin-left: 550px;
+}
+
+.container1000 label{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+text-align: center;
+color: #191970;
+margin-right: 15px;
+margin-top: 10px;
+}
+
+
+.container1000 button{
+position: absolute;
+width: 150px;
+height: 65px;
+left: 600px;
+top: 640px;
+background: #191970;
+border-radius: 8px;
+color: #FFFFFF;
+margin-bottom: 100px;
+}
+
+.btn-submit115{
+    font-size: 20px;
+}
+
+

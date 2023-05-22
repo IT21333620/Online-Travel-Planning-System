@@ -1,0 +1,18 @@
+.viewDespackages-table{
+    margin-left: 27%;
+    border-collapse: collapse;
+    width: 5%;
+}
+
+.viewDespackages-table th,
+.viewDespackages-table td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+
+.viewDespackages-table th {
+    background-color: #a1a2a1;
+    color: white;
+  }

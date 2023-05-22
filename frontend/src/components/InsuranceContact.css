@@ -1,0 +1,145 @@
+.head123 h1{
+position: absolute;
+width: 336px;
+height: 87px;
+left: 628px;
+top: 180px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 87px;
+text-align: center;
+color: #191970;
+
+
+}
+
+.address119{
+position: absolute;
+width: 219px;
+height: 230px;
+left: 280px;
+top: 450px;
+background: url("../img/address123.png");
+
+
+}
+
+.telephone119{
+position: absolute;
+width: 230px;
+height: 225px;
+left: 684px;
+top: 450px;
+background: url("../img/phone123.png");
+
+}
+
+.email119{
+position: absolute;
+width: 225px;
+height: 225px;
+left: 1080px;
+top: 450px;
+background: url("../img/email123.png");
+
+}
+
+.address120{
+
+position: absolute;
+width: 320px;
+height: 93px;
+left: 220px;
+top: 700px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 38px;
+line-height: 44px;
+text-align: center;
+color: #191970;
+font-weight: bold;
+}
+
+.telephone120{
+position: absolute;
+width: 320px;
+height: 93px;
+left: 640px;
+top: 700px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 38px;
+line-height: 44px;
+text-align: center;
+color: #191970;
+font-weight: bold;
+}
+
+.email120{
+   
+position: absolute;
+width: 320px;
+height: 93px;
+left: 1040px;
+top: 700px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 38px;
+line-height: 44px;
+text-align: center;
+color: #191970;
+font-weight: bold;
+
+}
+
+.address250{
+    position: absolute;
+width: 320px;
+height: 93px;
+left: 220px;
+top: 750px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 44px;
+text-align: center;
+color: #191970;
+}
+
+.telephone250{
+    position: absolute;
+    width: 200px;
+    height: 93px;
+    left: 710px;
+    top: 750px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 44px;
+    text-align: center;
+    color: #191970;
+    }
+
+    .email250{
+   
+        position: absolute;
+        width: 320px;
+        height: 93px;
+        left: 1040px;
+        top: 750px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+        color: #191970;
+        
+        }

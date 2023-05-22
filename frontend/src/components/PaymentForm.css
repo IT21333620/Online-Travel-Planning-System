@@ -1,0 +1,98 @@
+.Payment-raw {
+   
+  /* background: rgb(252, 251, 251);
+  width:1000px;
+  margin-left: 200px;
+  margin-top: 80px;
+  margin-bottom:80px;
+  border-radius: 8px;
+  border-color: #191970;
+  box-shadow: 0px 30px 50px 0px rgba(0, 0, 0, 0.2); */
+  background-color: white;
+  border-radius: 10px;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 3%;
+  margin-bottom: 100px;
+  padding: 2%;
+}
+
+.login-form-form-payment h1{
+  text-align: center;
+  font-size: 80px;
+color: #191970;
+  margin-bottom: 60px;
+}
+
+.form-payment {
+  margin-left: 20px;
+  margin-bottom: 40px;
+  border-radius: 8px;
+  margin-right: 20px;
+  border-color:rgb(109, 109, 96);
+}
+
+
+.login-form-form-payment label {
+  color: #191970;
+  font-weight: bold;
+  margin-top:10px ;
+ 
+}
+
+.gender119{
+  margin-left: 10px;
+}
+
+
+/* Style the submit button */
+/* .btn-reset119 {
+float: left;
+  margin-left: 500px;
+   font-size: 20px;
+  background-color: #eb1111;
+  border-color: #161a1d;
+  color: #ffffff;
+  padding: 10px 35px ;
+  border-radius: 4px;
+  font-weight: bold;
+ 
+} */
+.btn-pay{
+  background:rgb(126, 126, 245);
+  border: none;
+  color: white;
+  padding: 30px 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px 80px;
+  margin-bottom: 100px;
+  cursor: pointer;
+  border-radius: 8px;
+  float: right;  
+
+}
+
+.col-50 {
+  -ms-flex: 50%; /* IE10 */
+  flex: 75%;
+}
+
+.icon-container {
+  margin-bottom: 20px;
+  padding: 20px 17px;
+  font-size: 40px;
+}
+
+.col-25 {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+}
+
+/* .container {
+  background-color: #f2f2f2;
+  padding: 5px 20px 15px 20px;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+} */

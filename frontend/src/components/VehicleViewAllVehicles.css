@@ -1,0 +1,79 @@
+.veh-reser-body{
+    background-color: #e6e6ee;
+    height: max-content;
+}
+
+table, tr, th, td{
+    border: 2px solid;
+}
+
+.veh-res-admin-table{
+    position: relative; left: 20px; top: 50px;
+}
+
+#vehicle-res-head-pic{
+    position: relative; top:  45px; left: 400px;
+}
+
+.res-veh-admin-heading{
+    z-index: 5;
+    position: absolute; left: 710px; top: 80px;
+    font-size: 95px;
+    color: #FFFFFF;
+}
+
+.veh-res-conta{
+    position: relative; left: 350px; top: 150px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    width: 940px;
+    min-height: 400px;
+}
+
+.veh-res-ad-bthn1{
+    flex: 1 1 auto;
+  margin: 5px;
+  padding: 10px;
+  width: 100px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 6px;
+  background-image: linear-gradient(to left, #191970 0%, #ffffff 2%, #191970 100%);
+  font-size: 20px;
+  border-style: none;
+  position: relative;
+}
+
+.veh-res-ad-bthn10{
+    flex: 1 1 auto;
+  margin: 5px;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 6px;
+  background-image: linear-gradient(to left, #191970 0%, #ffffff 2%, #191970 100%);
+  font-size: 20px;
+  border-style: none;
+  position: relative;
+}
+
+.veh-res-veh-admin-pic{
+    width: 300px; height: 200px;
+}
+
+#veh-maint-btn{
+    position: relative; left: 960px; top: -400px;
+}
+
+#veh-maint-over-btn{
+    position: relative; left: 750px; top: -300px;
+}
+
+#veh-maint-dri-btn{
+    position: relative; left: 540px; top: -200px;
+}

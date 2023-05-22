@@ -1,0 +1,65 @@
+.cus1234-pay{
+    text-align: center;
+    color: rgb(15, 7, 7);
+    font-size: 80px;
+    margin-bottom: 100px;
+  
+    margin-left: 200px;
+}
+.tab1234 table, th, td {
+    border: 1px solid;
+    text-align: center;
+    margin-left: 280px;
+    width: 1085px;
+    height: 50px;
+   
+  
+}
+.tab1234 th{
+    font-size: 10px;
+}
+.btn-edit12{
+    background:linear-gradient(90.72deg, #19701c, rgba(25, 112, 28, 0.65));
+    border-radius: 5px;
+}
+.btn-delete12{
+    background:linear-gradient(90.72deg, #DA0202 -3.71%, rgba(218, 2, 2, 0.52) 99.39%);
+    border-radius: 5px;
+}
+
+.table-bordered-pay{
+
+    background-color: white;
+    border-radius: 10px;
+    width: 73%;
+    margin-left: 24%;
+    margin-top: 3%;
+    padding: 2%;
+}
+
+.btn-pay{
+    background:rgb(126, 126, 245);
+    border: none;
+    color: white;
+    padding: 30px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 50px 80px;
+    cursor: pointer;
+    border-radius: 8px;
+    float: right;  
+
+}
+.search-pay{
+
+    border: none;
+    color: white;
+    padding: 0px 200px;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0px 80px;
+    cursor: pointer;
+    border-radius: 8px;
+  
+}

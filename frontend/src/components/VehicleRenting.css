@@ -1,0 +1,169 @@
+.veh-rent-body{
+    background-color: #e6e6ee;
+    height: auto;
+    padding-bottom: 250px;
+    width: 1550px;
+    font-weight: bold;
+}
+
+
+.vehicle-rent-img{
+    width: 1550px;
+    height: 800px;
+}
+
+.veh-rent-detail-cont{
+    position: relative; left: 250px; top: 150px;
+    height: 300px;
+    width: 1000px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.veh-rent-spacer{
+    height: 50px;
+}
+
+.veh-rent-table{
+    border-style : hidden!important;
+}
+
+.veh-td{
+    border-style : hidden!important;
+}
+
+.veh-tr{
+    border-style : hidden!important;
+}
+
+.veh-rent-seats{
+    position: relative; left: 30px; top: -145px;
+}
+
+.veh-res-veh-type-div{
+    position: relative; left: 350px; top: -170px;
+    color: #191970;
+    font-size: 23px;
+    font-weight: 795;
+}
+
+.vehicle-pass-img{
+    position: relative; left: 348px; top: -150px;
+    width: 30px;
+    height: 30px;
+}
+
+.vehicle-milage-img{
+    position: relative; left: 0px; top: 90px;
+    width: 35px;
+    height: 30px;
+}
+
+.veh-rent-milage{
+    position: relative; left: 20px; top: -145px;
+}
+
+.vehicle-trans-img{
+    position: relative; left: -280px; top: 150px;
+}
+
+.veh-rent-trans{
+    position: relative; left: -50px; top: -85px;
+}
+
+.hr-line-12{
+    position: relative; left: 50px; top: -150px;
+    height: 3px;
+    width: 700px;
+    background-color: #6d686e;
+    border-radius: 5px;
+    z-index: 5;
+}
+
+.vr-line-12{
+    position: relative; left: 770px; top: -300px;
+    height: 250px;
+    width: 4px;
+    background-color: #6d686e;
+    border-radius: 5px;
+    z-index: 5;
+}
+
+.vehicle-tik1-img{
+    position: relative; left: -550px; top: -40px;
+}
+
+.veh-rent-p1{
+    position: relative; left: -500px; top: -65px;
+}
+
+.veh-rent-button{
+    flex: 1 1 auto;
+  margin: 5px;
+  padding: 10px;
+  width: 150px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 6px;
+  background-image: linear-gradient(to left, #191970 0%, #ffffff 2%, #191970 100%);
+  font-size: 20px;
+  border-style: none;
+  position: relative; left: 805px; top: -520px;
+}
+
+.veh-rent-tprice{
+    font-size: 35px;
+    font-weight: bolder;
+    position: relative; top: -300px; left: 200px;
+}
+
+.veh-rent-pday{
+    font-weight: bolder;
+    position: relative; top: -300px; left: 205px;
+}
+
+.veh-res-veh-pic{
+    height: 200px;
+    width: 300px;
+    border-radius: 6px 0 0 0;
+}
+
+.veh-res-veh-seats-div{
+    position: relative; left: 400px; top: -178px;
+}
+
+.vehicle-trans-img{
+    position: relative; left: 346px; top: -135px;
+}
+
+.veh-res-veh-trans-div{
+    position: relative; left: 400px; top: -165px;
+}
+
+.vehicle-mile-img{
+    position: relative; left: 570px; top: -265px
+}
+
+.veh-res-veh-mile-div{
+    position: relative; left: 640px; top: -290px;
+}
+
+.veh-res-veh-price-div{
+    font-size: 40px;
+    position: relative; left: 840px; top: -530px;
+}
+
+.veh-res-price-p{
+    position: relative; left: 847px; top: -530px;
+
+}
+
+.vehicle-tick-img{
+    position: relative; left: 350px; top: -140px;
+}
+
+.veh-rent-Safe{
+    position: relative; left: 380px; top: -163px;
+}

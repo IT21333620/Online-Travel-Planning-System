@@ -1,0 +1,89 @@
+
+.img900{
+position: absolute;
+width: 1150px;
+height: 1400px;
+left: 218px;
+top: 148px;
+bottom: 100px;
+background: url("../img/life200.jpeg");
+margin-bottom: 100px;
+border-radius: 90px;
+
+}
+
+
+
+
+.container800 h1{
+position: absolute;
+width: 542px;
+height: 88px;
+left: 288px;
+top: 188px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 58px;
+text-align: center;
+color: #191970;
+}
+
+.container800 p{
+position: absolute;
+width: 1000px;
+height: 538px;
+left: 297px;
+top: 40%;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 41px;
+color: #191970;
+}
+
+.container800 h3{
+position: absolute;
+width: 487px;
+left: 263px;
+top: 96%;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 54px;
+color: #191970;
+margin-bottom: 100px;
+}
+
+.container800 p1{
+position: absolute;
+width: 985px;
+height: 313px;
+left: 297px;
+top: 110%;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 44px;
+color: #191970;
+margin-bottom: 100px;
+}
+
+.container800 button{
+   
+position: absolute;
+
+left: 1100px;
+top: 1460px;
+background: #191970;
+border-radius: 8px;
+color: #FFFFFF;
+font-size: 30px;
+height: 60px;
+width: 120px;
+
+}

@@ -1,0 +1,84 @@
+.adventure-home-container{
+  height: 1700px;
+  color: hsl(240, 64%, 27%);
+}
+#adventure-home-img{
+  position: relative;
+  width: 100%;
+
+}
+
+.adventure-home-heading1{
+  
+  font-size: 20px;
+  text-align:center;
+  color: #171299;
+  position: relative;top: 15px;
+ 
+}
+
+.adventure-home-heading2{
+  
+  font-size: 10px;
+  text-align:center;
+  color: #171299;
+ 
+}
+.adventure-home-heading3{
+  
+  font-size: 30px;
+  text-align:center;
+  color: #171299;
+ 
+}
+.adventure-home-heading4{
+  
+  font-size: 20px;
+  color: #060606;
+ 
+}
+.btn-primary{
+  width: 110px;
+  height: 50px;
+  float: left;
+  margin-left: 1%;
+  border-radius: 10px;
+  background: linear-gradient(90.72deg, #1e0369, rgba(83, 73, 118, 0.77));
+  color: white;
+  font-size: large;
+  text-align: center;
+} 
+
+.dashboardAct{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 0px 4rem;
+}
+
+#divlogo{
+  width: 200px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    top: -50px;
+}
+
+#newlogo{
+  width: 200px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    top: 25px;
+}
+
+.btn-primary2{
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  background: linear-gradient(90.72deg, #1e0369, rgba(83, 73, 118, 0.77));
+  color: white;
+  font-size: large;
+}

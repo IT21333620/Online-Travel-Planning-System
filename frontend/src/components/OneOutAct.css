@@ -1,0 +1,93 @@
+.destination-package-container{
+
+  color: #191970;
+  height: 3000px;
+}
+.destination-package-container-feedback{
+
+  color: #191970;
+  height: 2381px;
+}
+.destination-package-heading1{
+  
+  font-size: 20px;
+  text-align:center;
+  color: #171299;
+ 
+}
+
+.destination-package-heading2{
+  
+  font-size: 10px;
+  text-align:center;
+  color: #171299;
+ 
+}
+.btn-primary2{
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  background: linear-gradient(90.72deg, #1e0369, rgba(83, 73, 118, 0.77));
+  color: white;
+  font-size: large;
+}
+.main-topic1{
+  font-size: 30px;
+  text-align:center;
+  color:black;
+}
+.main-description1{
+  font-size: 15px;
+  text-align: center;
+}
+.main-img{
+  font-size: 10px;
+  text-align: center;
+}
+.other-disciption1{
+  font-size:15px ;
+  text-align: center;
+}
+#des-pack-pic{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+ 
+}
+.extra-description1{
+  font-size: 15px;
+  text-align: center;
+}
+.other-topic1{
+  font-size: 25px;
+  text-align: center;
+}
+
+
+.onceYouMove {
+  margin: 0;
+}
+
+.onceYouMoveContainer {
+  position: absolute;
+  text-align: center;
+  top: 720px;
+  /*left: 368px;*/
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 100%;
+
+}
+
+.loca{
+  position: relative;
+  left:24%;
+}
+.adventure-home-heading3{
+  
+  font-size: 30px;
+  text-align:center;
+  color: #171299;
+ 
+}

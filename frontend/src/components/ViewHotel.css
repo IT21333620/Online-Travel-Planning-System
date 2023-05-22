@@ -1,0 +1,113 @@
+.container{
+    margin-left: 7%;
+    margin-right: 7%;
+
+}
+.img1{
+    width:1290px;
+    max-height: 290px;
+    object-fit: cover;
+    
+}
+.q1 {
+    position: absolute;
+    top: 100px;
+    left: 10%;
+    font-size: 100px;
+    color: white;
+  }
+.q2{
+    position: absolute;
+    top: 275px;
+    left: 9%;
+    color: white;
+}
+.bg{
+    background-color: #E6E6EE;
+}
+.cont1{
+    width: 1290px;
+    height: 320px;
+    margin-top: 2%;
+    margin-left: 8%;
+    margin-right: 7%;
+    background-color: white;
+
+}
+.cont2{
+    width: 15%;
+    float: left;
+
+}
+.cont3{
+    width:75%;
+    float: right;
+    line-height: 2.5;
+    font-size: 25px;
+    color: #191970;
+
+}
+.imgh{
+    width: 280px;
+    height: 280px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.btnNew{
+    padding-top: 4px;
+    width: 175px;
+    height: 40px;
+    float: right;
+    margin-right: 8%;
+    border-radius: 10px;
+    background: linear-gradient(90.72deg, #19701c, rgba(25, 112, 28, 0.65));
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+.btnSelectroom{
+    
+    width: 200px;
+    height: 45px;
+    float: right;
+    margin-right: 5%;
+    border-radius: 10px;
+    background: linear-gradient(90.72deg, #191970, rgba(25, 25, 112, 0.77));
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+.ref{
+    float: right;
+    margin-right: 5%;
+    color: #19701C;
+}
+.icons {
+    display: flex;
+    gap: 10px;
+  }
+  .newcont{
+    margin-top: 5%;
+    height: 50px;
+    
+  }
+  .hotelsearch{
+    position: absolute;
+    top: 80px;
+    right: 10%;
+    float: right;
+  }
+  .hotel-search-btn{
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+  }
+
+  .adhotel-home{
+    position: relative; left: 150px; top: -80px;
+}
+
+.adHotel{
+    position: relative; left:120px;  top: -60px;
+}

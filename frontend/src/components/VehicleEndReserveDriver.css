@@ -1,0 +1,197 @@
+.body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 1000px;
+    height: 1500px;
+    font-size: 20px;
+}
+
+#img{
+    position: relative; left: 580px; top: 100px;
+    width: 400px;
+    border-radius: 10px;
+    
+}
+
+.form{
+    background-color: #ffffff;
+    position: relative; top: 200px; left: 110px;
+    width: 1300px;
+    height: 800px;
+    border-radius: 10px;
+}
+
+#date{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.text{
+    position: relative; left: 70px; top: 80px;
+}
+
+.box{
+    width: 400px;
+    height: 50px;
+    position: relative; left : 150px; top: -45px;
+    border-radius: 8px;
+}
+
+input[type=date]:required:invalid::-webkit-datetime-edit {
+    color: transparent;
+}
+
+input[type=date]:focus::-webkit-datetime-edit {
+    color: black !important;
+}
+#toBox{
+    position: relative; left: 680px; top: -35px;
+}
+
+#text3{
+    position: relative; left: 70px; top: -20px;
+}
+
+.btn{
+  flex: 1 1 auto;
+  margin: 5px;
+  padding: 10px;
+  width: 150px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 6px;
+  background-image: linear-gradient(to left, #191970 0%, #ffffff 2%, #191970 100%);
+  font-size: 20px;
+}
+
+#btn1 {
+    position: relative; left: 800px;
+  }
+
+#btn2{
+    position: relative; left: 850px;
+}
+
+#date2{
+    position: relative; left: 850px;
+}
+
+.veh-res-from-text{
+    position: relative; left: 70px;
+}
+
+#from-bx{
+    position: relative; left: 80px; top: 5px;
+}
+
+.veh-res-to-text{
+    position: relative; top: -65px; left: 700px;
+}
+
+#to-bx{
+    position: relative; top: 0px; left: 100px;
+}
+
+.veh-res-fname-text{
+    position: relative; top: -30px; left: 70px;
+} 
+
+#fname-bx{
+    position: relative; left: 30px; top: 0px;
+}
+
+.veh-res-lname-text{
+    position: relative; left: 70px; top: 0px;
+}
+
+#lname-bx{
+    position: relative; left: 30px; top: 0px;
+}
+
+.veh-res-mob-text{
+    position: relative; left: 70px; top: 30px;
+
+}
+
+.veh-res-email-text{
+    position: relative; left: 70px; top: 60px;
+
+}
+
+#mob-bx{
+    position: relative; left: 60px; top: 0px;
+}
+
+#email-bx{
+    position: relative; left: 70px; top: 0px;
+}
+
+#veh-res-btn1{
+    position: relative; left: 900px; top: 80px;
+    height: 50px;
+}
+
+#veh-res-btn2{
+    position: relative; left: 950px; top: 80px;
+    height: 50px;
+}
+
+#blah{
+    position: relative; top: 150px;
+}
+
+.vehicle-endres-img{
+    height: 700px;
+    width: 1600px;
+}
+
+.veh-res-end-p1{
+    color: #ffffff;
+    position: relative; left: 800px; top: -550px;
+    font-size: 150px;
+}
+
+.veh-res-end-p2{
+    color: #ffffff;
+    position: relative; left: 1100px; top: -580px;
+    font-size: 150px;
+}
+
+.veh-rent-endres-detail-cont{
+    position: relative; left: 250px; top: -250px;
+    height: 200px;
+    width: 1000px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.veh-endres-veh-pri-div{
+    position: relative; top: -200px; left: 860px;
+    font-size: 35px;
+}
+
+.vr-line-endres-12{
+    position: relative; left: 770px; top: -290px;
+    height: 160px;
+    width: 4px;
+    background-color: #6d686e;
+    border-radius: 5px;
+    z-index: 5;
+}
+
+.veh-end-res-btn{
+    flex: 1 1 auto;
+  margin: 5px;
+  padding: 10px;
+  width: 150px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 6px;
+  background-image: linear-gradient(to left, #191970 0%, #ffffff 2%, #191970 100%);
+  font-size: 20px;
+  border-style: none;
+  position: relative; left: 805px; top: -400px;
+}

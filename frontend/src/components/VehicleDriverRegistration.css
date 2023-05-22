@@ -1,0 +1,132 @@
+.veh-dri-reg-body{
+    width: 1535px;
+    height: 1200px;
+    background-color: #e6e6ee;
+}
+
+.veh-dri-reg-container{
+    background-color: white;
+    position: relative; top: 100px; left: 160px;
+    width: 1200px;
+    height: 950px;
+    border-radius: 8px;
+}
+
+.veh-dri-reg-driname-p1{
+    position: relative; left: 80px; top: 50px;
+}
+
+.veh-dri-reg-heading{
+    color: #191970;
+    position: relative; top: 55px; left: 38%;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.veh-dri-reg-drivername{
+    position: relative; left: 80px;
+}
+
+.veh-dri-reg-add-p2{
+    position: relative; left: 80px; top: 80px;
+}
+
+.veh-dri-reg-address{
+    position: relative; left: 110px;
+}
+
+.veh-dri-regemail-p1{
+    position: relative; left: 80px; top: 110px;
+}
+
+.veh-dri-reg-emailaddress{
+    position: relative; left: 70px;
+}
+
+.veh-dri-reg-pnum-p1{
+    position: relative; left: 80px; top: 170px;
+}
+
+.veh-dri-reg-pnum{
+    position: relative; left: 60px;
+}
+
+.veh-dri-reg-exp-p1{
+    position: relative; left: 80px; top: 200px;
+}
+
+.veh-dri-reg-experience{
+    position: relative; left: 30px;
+}
+
+.veh-dri-reg-nic-p1{
+    position: relative; left: 80px; top: 235px;   
+}
+
+.veh-dri-reg-nic{
+    position: relative; left: 140px;
+}
+
+.veh-dri-reg-age-p1{
+    position: relative; left: 80px; top: 270px;
+}
+
+.veh-dri-reg-age{
+    position: relative; left: 140px;
+}
+
+.veh-dri-reg-lic-p1{
+    position: relative; left: 80px; top: 300px;
+}
+
+.veh-dri-reg-licensenum{
+    position: relative; left: 50px;
+}
+
+.veh-reg-sub-btn{
+    position: relative; top: 250px; left: 850px;
+    flex: 1 1 auto;
+  margin: 5px;
+  padding: 10px;
+  width: 150px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 6px;
+  background-image: linear-gradient(to left, #191970 0%, #ffffff 2%, #191970 100%);
+  font-size: 20px;
+  border-style: none;
+}
+
+.veh-dri-regpass-p1{
+    position: relative; left: 80px; top: 140px;
+}
+
+.veh-dri-reg-password{
+    position: relative; left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Remove this */
+.veh-dri-reg-p1{
+    position: relative; top: 350px;
+}

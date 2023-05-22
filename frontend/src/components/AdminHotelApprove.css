@@ -1,0 +1,50 @@
+.hotelAppr-bg{
+    background:#E6E6EE;
+    height: fit-content;
+    min-height: 1000px;
+    width: 100%;
+    position: fixed;
+    margin-top: 0%;
+}
+.hotelAppr-cont{
+    background-color: white;
+    border-radius: 10px;
+    width: 73%;
+    margin-left: 24%;
+    margin-top: 3%;
+    padding: 2%;
+    
+}
+.hotelAppr-topic{
+    font-size: 30px;
+  color:#191970;
+  text-align: center;
+
+}
+.hotel-app-tabel-th{
+    width: 13%;
+    font-size: 20px;
+    color: #191970;
+}
+.hotel-app-tabel-th{
+    width: 18%;
+    font-size: 20px;
+    color: #191970;
+}
+.btn-appro-hotel{
+    background: linear-gradient(90.72deg, #19701c, rgba(25, 112, 28, 0.65)); 
+    color: white;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
+.btn-delete-hotel{
+    margin-top: 5%;
+    background: linear-gradient(90.72deg, #DA0202 -3.71%, rgba(218, 2, 2, 0.52) 99.39%);
+    color: white;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}

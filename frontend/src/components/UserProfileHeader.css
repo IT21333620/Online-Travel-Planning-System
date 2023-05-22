@@ -1,0 +1,48 @@
+.bd-container{
+    background-color: #e6e6ee;
+    width: 20%;
+}
+
+.left-nav{
+    background-color: #ffffff;
+    width: 20%;
+    height: 120%;
+    position: fixed;
+    
+}
+.Advertiser-img{
+    border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-top: 40px;
+}
+
+.nav-bar{
+    list-style-type: none;
+    line-height: 60px;
+}
+.nav-item2{
+    margin-top: 8%;
+}
+.Adnavlogout{
+   
+    background: linear-gradient(90.72deg, #ca3838, rgba(202, 78, 78, 0.77));
+    border: none;
+    color: white;
+    padding: 2px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    height: 60px;
+}
+
+.selected {
+    color: red;
+    font-weight: bold;
+  }
+  

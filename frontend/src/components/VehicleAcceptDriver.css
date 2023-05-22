@@ -1,0 +1,8 @@
+.veh-dri-small-body{
+    position: relative; top: 150px; left: 400px;
+    padding: 25px 25px 25px 25px;
+    background-color: #ffffff;
+    height: auto;
+    width: 1000px;
+    border-radius: 8px;
+}
